@@ -1,0 +1,7 @@
+-- INSERT INTO user_table(active, name, password, roles) VALUES(false, 'Vlad', 'parola', 'USER_ROLE');
+-- INSERT INTO user_table(active, name, password, roles) VALUES(false, 'Sefu', 'parola', 'USER_ADMIN');
+-- INSERT INTO user_table(active, name, password, roles) VALUES(false, 'Alex', 'parolafoartegrea', 'USER_ROLE');
+--
+-- -- INSERT INTO user_table(active, name, password, roles) VALUES(0, 'Vlad', 'parola', 'USER_ROLE');
+-- -- INSERT INTO user_table(active, name, password, roles) VALUES(0, 'Sefu', 'parola', 'USER_ADMIN');
+-- -- INSERT INTO user_table(active, name, password, roles) VALUES(0, 'Alex', 'parolafoartegrea', 'USER_ROLE');
